@@ -1,0 +1,28 @@
+body
+{
+    background-color: black;
+}
+
+.heading
+{
+    width: 100%;
+    font-size: 20px;
+    margin: 0px;
+    box-shadow: 5px 5px 5px white;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+#developed
+{
+    position: fixed;
+    color: white;
+    bottom: 0px;
+    background-color: black;
+    width: 100%;
+    text-align: center;
+}
